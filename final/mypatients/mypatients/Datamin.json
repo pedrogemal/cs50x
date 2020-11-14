@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "title": "When to make an appointment",
+    "text": "If you just had your first consult, you will probably be scheduled to a return in the next 90 days or less. As a general rule, we recommend making appointments on a yearly basis, unless you are given any other recommendation in person."
+}, {
+    "id": 2,
+    "title": "Nutrition tips",
+    "text": "Please, try to follow the individual nutrition recommendations you were given during the consultation on most of the days. If you have been diagnosed with one or more of the special cases, we kindly ask you to follow the recommendations every day."
+}, {
+    "id": 3,
+    "title": "Exercise tips",
+    "text": "As a general rule, we advise all our patients to practice 150 minutes of exercise every week. This may be equal to enrolling in an activity for 30 minutes 5 times per week or other combinations that best fit you (i.e., 10 minutes 3 times every day). Please refrain from accumulating all time in one single day, since this can have bad consequences."
+}, {
+    "id": 4,
+    "title": "Recommended pharmacys",
+    "text": "In the area next to our clinic, the recommended pharmacies are the one that follows the ANVISA requirements. In case of special situations, you may be recommended in some preferred brands over others, and this is legal, as long as you still have the option to follow it or not."
+}, {
+    "id": 5,
+    "title": "Recommended professionals",
+    "text": "Depending on your treatment, you may be given a recommendation to other health professional monitoring, including, but not limited to physiotherapy, speech therapy, nutrition, and others. You will always have the freedom to choose other professionals (either by other's recommendation or due to health insurance limitations)."
+}, {
+    "id": 6,
+    "title": "Recommended hospitals",
+    "text": "In the area near our clinic, there are a few options of hospitals you can go to. Depending upon a specific complaint (i.e., shortness of breath), you may be directed to a specific unit due to equipment or professional availability."
+}, {
+    "id": 7,
+    "title": "Health insurance tips",
+    "text": "We do not work with any specific health insurance company. However, a few recommendations may be useful in this subject: (1) in the case you are not sure to wether your insurance offers reimbursement for our clinic procedures and consults, feel free to ask our reception on how you can find this out; (2) if you are seeking for information regarding what is the best health insurance that fits you, we generally say that the two key aspects are that it must fit in your budget and it should include coverage of your preferred hospitals."
+}, {
+    "id": 8,
+    "title": "Common drug information",
+    "text": "We recommend the following measures in order to avoid common problems related to drug prescription. First, always check the prescription and the pill to check if it is the right one. Second, you are always recommended to double-check the drug information for any mistakes related to the common and maximum dosage. Finally, if you have any doubts regarding the drug itself, please make contact by phone with our clinic."
+},{
+    "id": 9,
+    "title": "Exam results",
+    "text": "Please, try to send all your exam results in advance to our private email box. This way, you and others will probably wait less time before the appointment. As an exception, if your exam result includes some kind of media, or if you were not able to send it by email, please bring it with yourself in the appointment."
+},{
+    "id": 10,
+    "title": "COVID-19 protocol",
+    "text": "As a general practice, our clinic adopts all safety measures in order to comply with COVID-19 prevention. Because of this, you will be asked to have your temperature checked when arriving at the clinic, as well as you will have to wash your hands on the entrance and wear a mask during all time inside the clinic."
+},{
+    "id": 11,
+    "title": "Suggested literature",
+    "text": "TBD"
+},{
+    "id": 12,
+    "title": "Support groups",
+    "text": "TBD"
+},{
+    "id": 13,
+    "title": "Antistress measures",
+    "text": "TBD"
+},{
+    "id": 14,
+    "title": "Sleep hygiene",
+    "text": "TBD"
+},{
+    "id": 15,
+    "title": "Skin protection",
+    "text": "TBD"
+}]
